@@ -1,10 +1,8 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>MongoDB<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, Bash , and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love writing clean code.
-
-
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>MongoDB<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, Bash , and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love writing clean code. 
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=cyb3rvaibhav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- CHECK -->
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cyb3rvaibhav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cybervaibhav.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cyb3rvaibhav) 
 

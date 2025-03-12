@@ -1,13 +1,12 @@
 
 <h1 align="center">
 <a href="https://github.com/Bouaskaoun">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Github+Profile;I'm+Vaibhav+AKA+HackerFerb;Bash%20|%20JS%20|%20Linux%20;Software+Developer;OSINT+Anaylst;Turning+coffee+into+code+And+Dreams+Into+Reality;Thanks+For+Visiting&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Github+Profile;I'm+Vaibhav+Gupta;Bash%20|%20JS%20|%20Linux%20;Software+Developer;OSINT+Anaylst;Turning+coffee+into+code+And+Dreams+Into+Reality&center=true&width=600&height=45">
 	</a>
 </h1>
 
-🔭<b>I’m currently working on:</b>  <br>
-<i>Improving cloud-based solutions and implementing microservices architecture.</i><br><br>👯I’m looking to collaborate on:<br><i>Fullstack projects</i><br><br>🌱<b>I’m currently learning:</b><br><i>Bug Hunting</i><br><br><b>💬 Ask me about:</b><br><i>JavaScript, React, Node.js, Bash , Linux And Any Other Software Development Related Queries.</i><br><br>
-⚡<b>Fun fact:</b><br><i>I love writing clean code.</i><br> 
+🔭<b>I’m currently working on:</b><br>
+<i>Improving web-based solutions and Automating Tasks.</i><br><br><b>👯I’m looking to collaborate on:</b><br><i>Fullstack projects</i><br><br><b>💬 Ask me about:</b><br><i>JavaScript, React, Node.js, Bash , Linux And Any Other Software Development Related Queries.</i><br><br>
 
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=hackerferb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
